@@ -1,4 +1,3 @@
-# print function on main branch
-for i in range(1, 10+1):
-    if i%5 == 0:
-        print(f'{i}: hello, world on main!')
+# print fucntion on main branch
+result = ['main' if i%5 == 0 else i for i in range(1, 10+1)]
+print(result)
