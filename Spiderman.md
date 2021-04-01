@@ -1,3 +1,3 @@
-# Spider-Man1
-- Year: 2002.5.3
+# Spider-Man2
+- Year: 2004.6.30
 - Name: Peter Benjamin Parker
